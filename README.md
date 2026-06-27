@@ -8,7 +8,7 @@ Also create a `makefile` to build the program.
 
 Start from the following skeleton:
 
-```c=
+```c
 #include <stdio.h>
 
 int main(void)
@@ -45,7 +45,7 @@ _italic_
 
 Create a similar thing in python:
 
-```py=
+```py
 import sys
 def main():
     ...     #Add your code here
